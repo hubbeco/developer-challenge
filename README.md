@@ -8,21 +8,20 @@ O desafio de codificação passa a ser opcional caso você já possua algum cód
 
 Se você já tem algum código ou projeto existente, faça o seguinte:
 
-- Caso ainda não esteja, suba seu projeto para um repositório git hospedado (por exemplo, Github, Bitbucket, etc.)
-- O repo deve incluir um README que segue os princípios descritos abaixo. Certifique-se de incluir explicações de alto nível sobre o que o código está fazendo
+- Suba seu projeto para um repositório git hospedado (Github, Bitbucket, etc.)
+- O repo deve incluir um README seguindo os princípios abaixo. Certifique-se de incluir explicações de alto nível sobre qual problema o seu código está tentando resolver
 - O código que enviar deve ter sido escrito por você sozinho. Caso contrário, diga-nos qual parte você escreveu e por que se orgulha de tê-lo feito (use o README para isso)
 
 #### 🤓 - Como preparo o README?
 
-Independentemente de ser seu próprio código ou estar seguindo o nosso desafio abaixo, escreva seu README como se fosse para um serviço de produção. Inclua os seguintes itens:
+Escreva seu README como se fosse para um serviço/sistema usado em produção. Inclua os seguintes itens:
 
 - Descrição do problema e da solução
-- Se a solução se concentra no Backend, Frontend ou é Full Stack
-- Razões por trás de suas escolhas técnicas, incluindo arquitetônicas
-- Trocas que você pode ter feito, qualquer coisa que você deixou de fora, ou o que você pode fazer diferente se você gastar mais tempo no projeto
-- Link para outro código do qual você está particularmente orgulhoso
-- Link para o seu currículo ou perfil público
-- Link para o aplicativo hospedado quando aplicável
+- Tipo de sistema (Backend, Frontend ou é Full Stack)
+- Razões por trás de suas escolhas técnicas (design pattern, arquitetura da solução, etc)
+- Caso acredite que alguma parte da solução poderia ser feita de forma diferente da atual, descreva o que teria feito e o motivo dessa decisão
+- Link para o seu currículo ou perfil público (LinkedIn, Github, etc)
+- Link para o aplicativo rodando/hospedado (quando aplicável)
 
 
 #### 🤓 - Ok, me fala mais sobre o desafio...
@@ -65,23 +64,16 @@ O desafio consiste em realizar uma das opções abaixo, conforme a sua área de 
 - Se a sua área é o desenvolvimento Full Stack, pode pular para [Entendi! Alguma dica?](#--entendi-alguma-dica)
 
 
-#### 4) Big data e Machine Learning
-
-- Quais outras informações podemos encontrar no acesso a uma URL? Nos surpreenda.
-- Sinta-se a vontade para montar sua pilha de tecnologias (Use Node.js, Go, Python, Java... o que quiser!)
-- Crie um Frontend que ajude a visualizar seus objetivos e resultados
-- Não esqueça do README
-
-
 #### 🤓 - Entendi! Alguma dica?
 
 - Seu HTML deverá ser o mais semântico possível (faça bom uso das tags HTML5)
 - Faça o CSS bem estruturado e em um arquivo separado
 - No JavaScript, evite poluir o escopo global. O uso ou não de bibliotecas também será avaliado
+- Use bons padrões da linguagem para uma código mais limpo e semântico
 - Crie uma boa documentação
 - Crie testes para o seu código
 
 
-#### Em caso de dúvidas, [abra uma issue](https://github.com/btscp/developer-challenge/issues)
+#### Em caso de dúvidas, [abra uma issue](https://github.com/hubbeco/developer-challenge/issues)
 
 #### Até logo e bom trabalho!
